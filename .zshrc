@@ -1,4 +1,4 @@
-PROMPT="%B%F{47}%n %1~ %# %f%b"
+PROMPT="%B%F{47}%n %1~/ %# %f%b"
 
 # case insensitive auto complete
 autoload -U compinit && compinit
